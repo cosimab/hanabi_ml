@@ -27,3 +27,10 @@ Approaches or solutions that have been tried before on similar projects.
   - **Methods**: Researchers used following ML algorithms: Logistic Regression, Support Vector Machines, Long Short-Term Memory and Random Forest. The performed extensive Feature Engineering by converting raw game events into structured variables. They then used Feature Importance techniques to rank these based on their predictive power. 
   - **Outcomes**: Study successfully demonstrated that non-lineral models like Random Forest can predict game results with high accuracy.
   - **Relation to the Project**: Finally, the methodological blueprint. We try to adopt the same core methodology: converting sequential "play-by-play" logs into a structured dataset to predict a continuous final score via Random Forest Regression. The NBA project demonstrates how ensemble models can effectively map specific in-game actions to a final point total which is exactly how we quantify which cooperative moves in Hanabi lead to a perfect 25-point result.
+
+
+- **Other Interesting Sources:**
+  - **[Link](https://www.codegenes.net/blog/machine-learning-predict-game-score-pytorch/#:~:text=Predicting%20game%20scores%20is%20a%20regression%20problem%2C%20as,injuries%2C%20head-to-head%20records%29%20and%20output%20a%20predicted%20score.)**
+  - **[Link](https://www.mdpi.com/2504-2289/9/12/302)**
+  - **[Link](https://www.researchgate.net/publication/370838554_Predicting_Steam_Games_Rating_with_Regression)**
+  - **[Link](https://github.com/nathaniel-speiser/Boardgame-regression/blob/main/README.md)**
