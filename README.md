@@ -1,4 +1,4 @@
-# Hanabi card game score prediction
+# Predicting Pyrotechnics - Hanabi score prediction with ML
 
 ## Repository Link
 
