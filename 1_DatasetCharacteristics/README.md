@@ -5,18 +5,18 @@
 ## Dataset Information
 
 ### Dataset Source
-- **Dataset Link:** [Provide a direct link to your dataset. If the dataset is private, explain the reason and provide contact information for the dataset owner]
-- **Dataset Owner/Contact:** [If applicable, provide contact information for private datasets]
+- **Dataset Link:** https://github.com/yawgmoth/HanabiData
+- **Dataset Owner/Contact:** Markus Eger https://github.com/yawgmoth
 
 ### Dataset Characteristics
-- **Number of Observations:** [Total number of samples/records in your dataset. For time series data, also specify the temporal resolution (e.g., daily, hourly, etc.)]
-- **Number of Features:** [Total number of features in your dataset]
+- **Number of Observations:** 2040
+- **Number of Features:** 50
 
 ### Target Variable/Label
-- **Label Name:** [Name of the target variable/column]
-- **Label Type:** [Classification/Regression/Clustering/Other]
-- **Label Description:** [What does this label represent? What is the prediction task?]
-- **Label Values:** [For classification: list of classes and their meanings. For regression: range of values. For other tasks: describe the label structure]
+- **Label Name:** final_score
+- **Label Type:** Regression
+- **Label Description:** End score of the game
+- **Label Values:** Integer number between 0 and 25
 - **Label Distribution:** [Brief description of class balance for classification or value distribution for regression]
 
 ### Feature Description
