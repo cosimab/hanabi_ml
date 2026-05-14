@@ -1,4 +1,5 @@
-# Predicting Pyrotechnics - Hanabi score prediction with ML
+# Predicting Pyrotechnics
+## Hanabi score prediction with ML
 
 ## Repository Link
 
