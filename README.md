@@ -1,4 +1,4 @@
-# [Your Project Title Here]
+# Hanabi card game score prediction
 
 ## Repository Link
 
