@@ -17,7 +17,11 @@
 - **Label Type:** Regression
 - **Label Description:** End score of the game
 - **Label Values:** Integer number between 0 and 25
-- **Label Distribution:** [Brief description of class balance for classification or value distribution for regression]
+- **Label Distribution:**
+    - bimodal: two distinct peaks -> one around a score of 6-7 and a larger one between 15 and 19
+    - negative skewness: data is left-skewed -> majority of games result in higher scores
+    - scores span full range from 0 to 24 -> diverse dataset that includes early failures and near-perfect games
+    - dip around score of 10-12 suggests "threshold" where games either stabilize into ghi-scoring rounds or collapse early
 
 ### Feature Description
 [Provide a brief description of each feature or group of features in your dataset. If you have many features, group them logically and describe each group. Include information about data types, ranges, and what each feature represents.]
