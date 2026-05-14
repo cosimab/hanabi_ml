@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-[https://github.com/cosimab/hanabi_ml]
+https://github.com/cosimab/hanabi_ml
 
 ## Description
 
