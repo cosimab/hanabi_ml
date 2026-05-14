@@ -24,12 +24,7 @@
     - dip around score of 10-12 suggests "threshold" where games either stabilize into ghi-scoring rounds or collapse early
 
 ### Feature Description
-[Provide a brief description of each feature or group of features in your dataset. If you have many features, group them logically and describe each group. Include information about data types, ranges, and what each feature represents.]
-
-**Example format:**
-- **Feature 1 (feature_name):** [Description of what this feature represents, data type, and any relevant details]
-- **Feature 2 (feature_name):** [Description of what this feature represents, data type, and any relevant details]
-- **Feature Group (group_name):** [Description of a group of related features]
+- **Feature Group (card count):** Frequency of occurence for each card in the starting hand of the two players, e.g. p1_green1 -> Green 1 for player 1
 
 ## Exploratory Data Analysis
 
