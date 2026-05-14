@@ -6,7 +6,7 @@
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+We want to take a closer look at "Hanabi", a cooperative card game where the catch is that you can't see your own hand and instead only see your teammates cards. Success depends on how well the team communicates through limited hints - or maybe how lucky the first cards are? For this project, we want to explore about 2000 of real-world game logs. Our idea is to use regression to predict the final score based on the first cards each player gets. 
 
 ### Task Type
 
