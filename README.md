@@ -1,4 +1,4 @@
-# Predicting Pyrotechnics - Hanabi score prediction with ML
+<img width="900" height="530" alt="Hanabi_banner" src="https://github.com/user-attachments/assets/ec76335a-ef5f-4cdf-b3be-75e826daddc9" />
 
 ## Repository Link
 
